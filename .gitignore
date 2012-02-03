@@ -1,0 +1,28 @@
+# Compiled source #
+###################
+*.class
+target/
+project/target/
+project/project/target
+
+# Packages #
+############
+*.jar
+*.tar
+*.zip
+*.dmg
+*.gz
+*.rar
+
+# Logs and databases #
+######################
+*.log
+*.sql
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
