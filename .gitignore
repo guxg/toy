@@ -1,9 +1,15 @@
 # Compiled source #
 ###################
 *.class
-target/
-project/target/
-project/project/target
+
+# building
+target
+build
+null
+tmp*
+dist
+test-output
+
 
 # Packages #
 ############
@@ -29,3 +35,4 @@ Thumbs.db
 #Eclipse IDE
 .classpath
 .project
+.settings
